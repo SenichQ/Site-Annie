@@ -13,7 +13,11 @@ section {
 	width: 20px;
 }
 .carousel-control-prev {
+<<<<<<< HEAD
 	left: 0px;
+=======
+	left:10px;
+>>>>>>> 57a35028b060667b2c028b285265c7703991ffb4
 }
 .carousel-control-next {
 	right: 0px;
